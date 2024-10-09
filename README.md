@@ -1,1 +1,7 @@
 # Infinit8I-UI
+
+INTERFACE FOR USER DATA ACQUISITION
+
+
+
+Intructions:

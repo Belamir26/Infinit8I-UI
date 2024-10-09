@@ -4,4 +4,4 @@ INTERFACE FOR USER DATA ACQUISITION
 
 
 
-Intructions:
+Instructions:
